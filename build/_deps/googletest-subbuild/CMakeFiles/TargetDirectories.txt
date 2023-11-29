@@ -1,3 +1,0 @@
-/Users/andrebrahin/Downloads/assignment-11-mandatory-files/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/Users/andrebrahin/Downloads/assignment-11-mandatory-files/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/Users/andrebrahin/Downloads/assignment-11-mandatory-files/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
